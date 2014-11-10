@@ -61,7 +61,7 @@ include('inc/header.php');?>
 					    </div>
 					</div>			
 								                    
-					<p class="byline">Now that you know more about me, take a look at<a href="work">my work</a>.</p>
+					<p class="byline">Now that you know more about me, take a look at <a href="work">my work</a>.</p>
 						
 				</div>
 			</div>
