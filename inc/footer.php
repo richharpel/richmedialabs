@@ -29,9 +29,7 @@
 					<h3><i class="icon-user"></i> Be Social</h3>			
 					<ul class="unstyled">
 						<li><a href="https://twitter.com/richmedialabs"><i class="icon-twitter-sign"></i> Twitter</a></li>
-						<li><a href="https://www.facebook.com/pages/RichMediaLabs/194109170601811"><i class="icon-facebook-sign"></i> Facebook</a></li>
 						<li><a href="http://www.linkedin.com/pub/rich-harpel/1/703/5a0"><i class="icon-linkedin-sign"></i> LinkedIn</a></li>
-						<li><a href="http://www.flickr.com/photos/95711232@N07/"><i class="icon-camera"></i> Flickr</a></li>
 					</ul>
 				</div>
 				

@@ -22,9 +22,7 @@ include('inc/header.php');?>
 		<div class="container">
 			<ul class="homepage-social-buttons">
 				<li><a href="https://twitter.com/richmedialabs" title="twitter"><i class="icon-twitter"></i></a></li>
-				<li><a href="https://www.facebook.com/pages/RichMediaLabs/194109170601811" title="facebook"><i class="icon-facebook"></i></a></li>
 				<li><a href="http://www.linkedin.com/pub/rich-harpel/1/703/5a0" title="linkedin"><i class="icon-linkedin"></i></a></li>
-				<li><a href="http://www.flickr.com/photos/95711232@N07/" title="flickr"><i class="icon-camera"></i></a></li>
 			</ul>
 		</div>
 	</div>
